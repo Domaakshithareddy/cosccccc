@@ -1,6 +1,5 @@
 print('hi')
 print('mohan')
-print('emomo')
 print('hi')
 print('aharshuha')
 print('prnav')
